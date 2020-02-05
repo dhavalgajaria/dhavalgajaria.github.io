@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Dhaval Gajaria",
+    "label": "Business Associate",
+    "picture": "images/Dhaval.jpg",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "Currently I’m working as an associate at Beehive Capital Advisors Pvt Ltd. My smartest bestest friend handles this website",
+    "location": {
+      "country": "India",
+      "countryCode": "IND",
+      "region": "Mumbai"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@DhavalGajaria07",
+        "url": "https://twitter.com/DhavalGajaria07",
+        "x_icon": "fab fa-2x fa-twitter"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "jcoelho93",
+        "url": "https://github.com/jcoelho93",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Beehive Capital Advisors Pvt Ltd",
+      "position": "Associate",
+      "website": "https://beehivecap.com/#home",
+      "startDate": "2018-06-15",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Narsee Monjee College of Commerce and Economics",
+      "area": "Commerce",
+      "studyType": "Bachelor",
+      "startDate": "2015-07-15",
+      "endDate": "2018-06-07",
+      "courses": [
+        "Accounting",
+        "Mathematics",
+        "Introduction to Economics"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Jenkins",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "level": "Advanced",
+      "keywords": ["Softwares"]
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "Intermediate",
+      "keywords": ["Softwares"]
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "Intermediate",
+      "keywords": ["Softwares"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel bug",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Music lover",
+      "x_icon": "fa-music"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
